@@ -1,0 +1,9 @@
+yoxla - Botun Aktivlik vzəiyyətini göstərir.
+melumat - Botdan istifadə haqqında məlumat göstərir.
+quiz - Bot QUİZ-i başladır.
+sualkec - Halhazırdakı sualı keçir. 
+cavab - Boşluq buraxıb yazdığınız cavabı yoxlaylır.
+dayan - Hazırdakı oyunu bitirir.
+fasile - Hazırdakı oyuna fasilə əlavə edir. (boşluq qoyub yazdığınız ədəd qədər saniyə əlavə edir. Heç bir şey yazmasanız 30 saniyə)
+davam - fasiləni bitirir.
+sualsikayet - Hazırdakı sualda problem varsa istifadə edin.
